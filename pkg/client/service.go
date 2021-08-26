@@ -13,6 +13,7 @@ import (
 	_ "github.com/fengxsong/aliyun-exporter/pkg/client/rds"
 	_ "github.com/fengxsong/aliyun-exporter/pkg/client/redis"
 	_ "github.com/fengxsong/aliyun-exporter/pkg/client/slb"
+	_ "github.com/fengxsong/aliyun-exporter/pkg/client/vpc"
 
 	"github.com/fengxsong/aliyun-exporter/pkg/client/service"
 )
